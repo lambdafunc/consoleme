@@ -1,4 +1,4 @@
-[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-386/)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3105/)
 [![Discord](https://img.shields.io/discord/730908778299523072?label=Discord&logo=discord&style=flat-square)](https://discord.gg/nQVpNGGkYu)
 
 # ConsoleMe
@@ -63,7 +63,7 @@ or [**SAML**](https://hawkins.gitbook.io/consoleme/configuration/authentication-
 
 ## Companies that use ConsoleMe (alphabetically sorted)
 
-- [AB180](https://en.ab180.co/)
+- [AB180](https://www.ab180.co/en)
 - [Calm](https://www.calm.com/)
 - [FollowAnalytics](https://followanalytics.com/)
 - [myKaarma](https://mykaarma.com/)
